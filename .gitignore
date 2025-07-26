@@ -1,0 +1,6 @@
+.env*.local
+node_modules/
+.next/
+*.log
+vertex-key.json
+firebase-admin.json
